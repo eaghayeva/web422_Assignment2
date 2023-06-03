@@ -6,7 +6,7 @@
 * 
 *  Name: ___Emiliya Aghayeva___________________ Student ID: _____148398217_____________ Date: _______02/06/2023_____________
 *
-* Cyclic: 
+* Cyclic: https://azure-rattlesnake-shoe.cyclic.app
 *
 * Github:
 ********************************************************************************/ 
